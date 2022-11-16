@@ -1,0 +1,5 @@
+C:\Users\marin\OneDrive\Рабочий стол\РГРТУ\2 курс\практика\tp 1\obj\Debug\net6.0\tp 1.csproj.AssemblyReference.cache
+C:\Users\marin\OneDrive\Рабочий стол\РГРТУ\2 курс\практика\tp 1\obj\Debug\net6.0\tp 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\OneDrive\Рабочий стол\РГРТУ\2 курс\практика\tp 1\obj\Debug\net6.0\tp 1.AssemblyInfoInputs.cache
+C:\Users\marin\OneDrive\Рабочий стол\РГРТУ\2 курс\практика\tp 1\obj\Debug\net6.0\tp 1.AssemblyInfo.cs
+C:\Users\marin\OneDrive\Рабочий стол\РГРТУ\2 курс\практика\tp 1\obj\Debug\net6.0\tp 1.csproj.CoreCompileInputs.cache
